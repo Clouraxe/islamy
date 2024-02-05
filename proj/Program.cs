@@ -80,7 +80,10 @@ public class Program {
             || shrt.Substring(lastAnIdx, 9).Equals("عن الرسول"))
             lastAnIdx = slastAnIdx;
 
-        return text.Substring(lastAnIdx, text.Length - lastAnIdx); //Voila
+        //Fix broken hadiths?
+        if (text.Contains("قال \"")) text += '"';
+
+        return text.Substring(lastAnIdx, text.Length - lastAnIdx); //Voila xxx
     }
 
     static string ConstructTweet(HadithRoot hadithRoot)
