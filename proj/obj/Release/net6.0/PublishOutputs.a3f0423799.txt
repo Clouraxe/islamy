@@ -1,0 +1,10 @@
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\islamy.exe
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\islamy.dll
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\islamy.deps.json
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\islamy.runtimeconfig.json
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\islamy.pdb
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\RestSharp.dll
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\System.Text.Encodings.Web.dll
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\System.Text.Json.dll
+C:\Users\clour\OneDrive\Desktop\testy\islamy\proj\bin\Release\net6.0\publish\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
